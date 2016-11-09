@@ -1,6 +1,6 @@
 <?php
 define('BOT_TOKEN','156528854:AAGDqn2hNyG_XApUzEFm-Jv_sWm_WVFrV-w');
-define('API_URL', 'https://api.telegram.org/herocbot'156528854:AAGDqn2hNyG_XApUzEFm-Jv_sWm_WVFrV-w'/');
+define('API_URL', 'api.telegram.org/ 156528854:AAGDqn2hNyG_XApUzEFm-Jv_sWm_WVFrV-w/setwebhook?url=http://hamidrezaz-hamidrezaz.44fs.preview.openshiftapps.com'/');
 
 function apiRequestWebhook($method, $parameters) {
   if (!is_string($method)) {
